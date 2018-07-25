@@ -1,0 +1,39 @@
+[{
+
+ 	
+	"name":"Ram",
+	"age" : "90",
+	"votes" : [0,0,0,0,0,0],
+	"subject" : "OS"
+},
+{
+	"name":"M.L. Garg",
+	"age" : "80",
+	"votes" : [0,0,0,0,0,0],
+	"subject" : "OS"
+},
+{
+	"name":"Raju",
+	"age" : "45",
+	"votes" : [0,0,0,0,0,0],
+	"subject" : "OS"
+}
+ ,{
+
+	"name":"Naresh",
+	"Age" : "65",
+	"votes" : [0,0,0,0,0,0],
+	"subject" : "TOC"
+},
+{
+	"name":"Anil",
+	"Age" : "76",
+	"votes" : [0,0,0,0,0,0],
+	"subject" : "TOC"
+},
+{
+	"name":"Ramesh",
+	"Age" : "71",
+	"votes" : [0,0,0,0,0,0],
+	"subject" : "TOC"
+}]

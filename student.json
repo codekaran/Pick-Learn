@@ -1,0 +1,51 @@
+[{
+	"name" : "shatakshi",
+	"id" : 123,
+	"branch" : "CSE",
+	"section" : "b",
+	"mobile" : 0,
+	"password" :null
+},
+{
+	"name" : "manu",
+	"id" : 124,
+	"branch" : "CSE",
+	"section" : "b",
+	"mobile" : 0,
+	"password" :null
+},
+{
+	"name" : "moon",
+	"id" : 125,
+	"branch" : "MECH",
+	"section" : "a",
+	"mobile" : 0,
+	"password" :null
+},
+{
+	"name" : "vidit",
+	"id" : 126,
+	"branch" : "CSE",
+	"section" : "a",
+	"mobile" : 0,
+	"password" :null
+},
+{
+	"name" : "kshitiz",
+	"id" : 127,
+	"branch" : "MECH",
+	"section" : "f",
+	"mobile" : 0,
+	"password" :null
+},
+{
+	"name" : "karan",
+	"id" : 128,
+	"branch" : "MECH",
+	"section" : "b",
+	"mobile" : 0,
+	"password" :null
+}
+
+
+]

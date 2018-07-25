@@ -1,0 +1,30 @@
+<div style="background-color: black;color: grey;" class="jumbotron text-center container-fluid">
+  <h1>Choose Your Electives</h1> 
+  <div ng-if="vm.error"  class="alert alert-warning">
+  	<strong>Warning!</strong>Please select an Elective!!
+  	
+  </div>
+
+  <div ng-if="vm.success" class = "alert alert-success">
+  	<strong>Success!</strong>Successfully submitted your response.
+  	
+  </div>
+
+</div>
+<div class="panel  panel-primary">
+  <div class="panel-heading">The remaining electives</div>
+  <div class="panel-body">
+  	<form class="form-group form-inline" ng-submit = "vm.add()">
+<div ng-repeat = 'elective in vm.electiveList'>
+
+<ul>
+	
+	<li><div class="radio">
+  <label><input type="radio" ng-model='vm.get' ng-value='elective._id' ng-click = "vm.update()" name="optradio">{{elective.elective}}</label>
+</div></li>
+</ul>
+</div>
+<button type="submit">submit</button>
+</form>
+  </div>
+</div>
